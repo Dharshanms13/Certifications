@@ -6,7 +6,7 @@ This repository highlights the certifications completed on different platforms
 <img width="887" height="657" alt="image" src="https://github.com/user-attachments/assets/4f6d0e03-2122-4d9c-ac76-0dbf8d9b414d" />
 
 ## AWS Technical Essentials
-<img width="1052" height="807" alt="image" src="https://github.com/user-attachments/assets/4b0e6be1-db11-4c41-beef-30dd05a5390a" />
+<img width="887" height="657" alt="image" src="https://github.com/user-attachments/assets/4b0e6be1-db11-4c41-beef-30dd05a5390a" />
 
 ## Java Course Certificate <br>
 ### Credential - https://www.udemy.com/certificate/UC-e38c9684-92f1-4eac-9e8c-88255eaec056/
